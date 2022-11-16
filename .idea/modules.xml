@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/CalculateTax/CalculateTax.iml" filepath="$PROJECT_DIR$/CalculateTax/CalculateTax.iml" />
       <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Greengrocer/Greengrocer.iml" filepath="$PROJECT_DIR$/Greengrocer/Greengrocer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PasswordController/PasswordController.iml" filepath="$PROJECT_DIR$/PasswordController/PasswordController.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PatikaDevJava.iml" filepath="$PROJECT_DIR$/.idea/PatikaDevJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Taximeter/Taximeter.iml" filepath="$PROJECT_DIR$/Taximeter/Taximeter.iml" />
       <module fileurl="file://$PROJECT_DIR$/patika_dev/patika_dev.iml" filepath="$PROJECT_DIR$/patika_dev/patika_dev.iml" />
