@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/CalculateAreaOfTriangle/CalculateAreaOfTriangle.iml" filepath="$PROJECT_DIR$/CalculateAreaOfTriangle/CalculateAreaOfTriangle.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalculateMassOfBody/CalculateMassOfBody.iml" filepath="$PROJECT_DIR$/CalculateMassOfBody/CalculateMassOfBody.iml" />
       <module fileurl="file://$PROJECT_DIR$/CalculateTax/CalculateTax.iml" filepath="$PROJECT_DIR$/CalculateTax/CalculateTax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Greengrocer/Greengrocer.iml" filepath="$PROJECT_DIR$/Greengrocer/Greengrocer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PatikaDevJava.iml" filepath="$PROJECT_DIR$/.idea/PatikaDevJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Taximeter/Taximeter.iml" filepath="$PROJECT_DIR$/Taximeter/Taximeter.iml" />
